@@ -1,2 +1,1 @@
-# PartialDifferantialEquations
-My Math Notes
+# Notes
